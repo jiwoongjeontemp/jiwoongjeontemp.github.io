@@ -29,6 +29,14 @@ font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-skyline:before { content: "\f100"; }
+/* .flaticon-skyline:before { content: "\f100"; }
 .flaticon-sketch:before { content: "\f101"; }
-.flaticon-city:before { content: "\f102"; }
+.flaticon-city:before { content: "\f102"; } */
+
+.flaticon-twitter-logo-silhouette:before { content: "\f100"; }
+.flaticon-instagram-logo:before { content: "\f101"; }
+.flaticon-linkedin-logo:before { content: "\f102"; }
+.flaticon-github-logo:before { content: "\f103"; }
+.flaticon-facebook-logo:before { content: "\f104"; }
+.flaticon-dribbble-logo:before { content: "\f105"; }
+.flaticon-behance-logo:before { content: "\f106"; }

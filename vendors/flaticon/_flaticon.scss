@@ -36,10 +36,26 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-skyline:before { content: "\f100"; }
-.flaticon-sketch:before { content: "\f101"; }
-.flaticon-city:before { content: "\f102"; }
+//     .flaticon-skyline:before { content: "\f100"; }
+// .flaticon-sketch:before { content: "\f101"; }
+// .flaticon-city:before { content: "\f102"; }
     
-    $font-Flaticon-skyline: "\f100";
-    $font-Flaticon-sketch: "\f101";
-    $font-Flaticon-city: "\f102";
+//     $font-Flaticon-skyline: "\f100";
+//     $font-Flaticon-sketch: "\f101";
+//     $font-Flaticon-city: "\f102";
+
+.flaticon-twitter-logo-silhouette:before { content: "\f100"; }
+.flaticon-instagram-logo:before { content: "\f101"; }
+.flaticon-linkedin-logo:before { content: "\f102"; }
+.flaticon-github-logo:before { content: "\f103"; }
+.flaticon-facebook-logo:before { content: "\f104"; }
+.flaticon-dribbble-logo:before { content: "\f105"; }
+.flaticon-behance-logo:before { content: "\f106"; }
+    
+    $font-Flaticon-twitter-logo-silhouette: "\f100";
+    $font-Flaticon-instagram-logo: "\f101";
+    $font-Flaticon-linkedin-logo: "\f102";
+    $font-Flaticon-github-logo: "\f103";
+    $font-Flaticon-facebook-logo: "\f104";
+    $font-Flaticon-dribbble-logo: "\f105";
+    $font-Flaticon-behance-logo: "\f106";
